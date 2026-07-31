@@ -1,7 +1,10 @@
+#Number guessing game
 import random
 
-print("Hi! Welcome to the Number Guessing Game.\nYou have 7 chances to guess the number. Let's start!")
+print("Welcome to the Number Guessing Game.")
+print("Rules : You have 7 guesses to guess the number correctly. \n Let's start!")
 
+#creating variables to take input from user and store the value of lower limit and upper limit
 low = int(input("Enter the Lower Bound: "))
 high = int(input("Enter the Upper Bound: "))
 
