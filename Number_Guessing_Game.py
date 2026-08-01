@@ -1,5 +1,5 @@
 #Number guessing game
-import random
+import random 
 
 print("Welcome to the Number Guessing Game.")
 print("Rules : You have 7 guesses to guess the number correctly. \n Let's start!")
